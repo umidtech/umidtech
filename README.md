@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mirzabekov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mirzabekov/)](https://www.linkedin.com/in/mirzabekov/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=umidtech)
 
-Hi, I'm Umid. Full-Stack Software Engineer with more then 8+ years of experience.
+Hi, I'm Umid. Full-Stack Software Engineer with more then 7+ years of experience.
 I've done remote work for agencies, consulted for startups, and collaborated with brands to create digital products.
 
 #### STACK
