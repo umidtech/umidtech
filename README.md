@@ -10,5 +10,4 @@ JS / NODE JS / NEXT JS / REACT JS / REACT NATIVE / POSTGRE SQL / MONGO DB / PWA 
 #### CONTACTS
 
 <a href="https://umid.tech/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/badge/Website-www.umid.tech-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.instagram.com/umid.mirzabek/" target="_blank" rel="noopener noreferrer"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-umid.mirzabek-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:contact@umid.tech"><img alt="Email" src="https://img.shields.io/badge/Email-contact@umid.tech-blue?style=flat-square&logo=Mail.Ru"></a>
