@@ -5,7 +5,7 @@ I've done remote work for agencies, consulted for startups, and collaborated wit
 
 #### STACK
 
-JS / NODE JS / NEXT JS / REACT JS / REACT NATIVE / POSTGRE SQL / MONGO DB / BLOCKCHAIN
+NODE JS / NEXT JS / REACT JS / TYPESCRIPT / SOLIDITY / SOLID / CI/CD / UI/UX
 
 #### CONTACTS
 
