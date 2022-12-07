@@ -5,7 +5,7 @@ I've done remote work for agencies, consulted for startups, and collaborated wit
 
 #### STACK
 
-NODE JS / NEXT JS / REACT JS / TYPESCRIPT / SOLIDITY / SOLID / CI/CD / UI/UX
+TYPESCRIPT / NESTJS / POSTGRES / NODEJS / NEXTJS / REACTJS / SOLIDITY / SOLID / ORM / CI/CD / UI/UX
 
 #### CONTACTS
 
