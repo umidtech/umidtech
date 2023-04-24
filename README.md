@@ -1,11 +1,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mirzabekov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mirzabekov/)](https://www.linkedin.com/in/mirzabekov/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=umidtech)
 
-Hi, I'm Umid. User Interface Engineer with more than 8 years of industry experience. 
-I've done remote work for agencies, consulted for startups, and collaborated with brands to create digital products.
+Hi, I'm Umid, a Full-stack Engineer with over 8 years of experience in the industry. I have worked remotely for various agencies, provided consultation services to startups, and collaborated with well-known brands to create outstanding digital products.
 
 #### STACK
 
-TYPESCRIPT / NESTJS / POSTGRES / NODEJS / NEXTJS / REACTJS / SOLIDITY / SOLID / ORM / CI/CD / UI/UX
+TYPESCRIPT / NEXTJS / NESTJS / POSTGRES / NODEJS / REACTJS / SOLIDITY / SOLID / ORM / UI/UX
 
 #### CONTACTS
 
