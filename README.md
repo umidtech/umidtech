@@ -4,7 +4,7 @@ Hi, I'm Umid, a Full-stack Engineer with over 9 years of industry expertise. I'v
 
 #### STACK
 
-TYPESCRIPT / NEXTJS / NESTJS / POSTGRES / NODEJS / REACTJS / ORM / UI-UX
+TYPESCRIPT / NEXTJS / NESTJS / REACT NATIVE CLIE / POSTGRES / NODEJS / REACTJS / ORM / UI-UX
 
 #### CONTACTS
 
