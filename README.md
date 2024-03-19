@@ -4,7 +4,9 @@ Hi, I'm Umid, a Full-stack Engineer with over 10 years of industry expertise. I'
 
 #### STACK
 
-TYPESCRIPT / NEXTJS / NESTJS / REACT NATIVE / EXPO / POSTGRES / NODEJS / REACTJS / ORM / UI-UX
+![Static Badge](https://img.shields.io/badge/TypeScript-0A1A2F?style=for-the-badge&logo=TypeScript) ![Static Badge](https://img.shields.io/badge/Next.js-0A1A2F?style=for-the-badge&logo=Next.js)
+ ![Static Badge](https://img.shields.io/badge/Node.js-0A1A2F?style=for-the-badge&logo=Node.js) 
+
 
 #### CONTACTS
 
