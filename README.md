@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-mirzabekov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mirzabekov/)](https://www.linkedin.com/in/mirzabekov/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=umidtech)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=umidtech)
 
 Software Engineer with over 15 years of industry expertise.
 Nest, Next, Go, C++, Swift, React Native, Expo, Postgres.
