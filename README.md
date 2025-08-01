@@ -1,7 +1,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mirzabekov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mirzabekov/)](https://www.linkedin.com/in/mirzabekov/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=umidtech)
 
-Hi! I’m Umid — a Product and Software Engineer with over 12 years of industry experience.
-I’ve worked remotely with startups and global brands to build exceptional digital products, combining deep technical expertise with a product-first mindset. My work spans AI-powered solutions, mobile systems, and scalable software architecture. I’m especially passionate about leveraging artificial intelligence to create smarter, more efficient user experiences — from intelligent automation to conversational agents and predictive systems.
+Software Engineer with over 15 years of industry expertise.
+Nest, Next, Go, C++, Swift, React Native, Expo, Postgres.
+LLM Integration, RAG Architecture, SLM Optimization.
+System Design, Product-focused Engineering.
 
 #### STACK
 
